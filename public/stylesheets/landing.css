@@ -13,6 +13,10 @@ body {
   color: #fff;
 }
 
+btn a{
+	display: block;
+}
+
 .slideshow { 
   position: fixed;
   width: 100%;
